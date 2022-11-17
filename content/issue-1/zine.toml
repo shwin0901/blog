@@ -1,0 +1,10 @@
+
+[[article]]
+slug = "1"
+file = "1-first.md"
+title = "First article"
+author = "xx"
+cover = ""
+pub_date = "2022-11-17"
+publish = true
+featured = true

@@ -1,0 +1,14 @@
+
+[site]
+url = "http://localhost"
+name = "blog"
+description = ""
+
+[authors]
+xx = {}
+
+[[issue]]
+slug = "s1"
+number = 1
+title = "Issue 1"
+path = "content/issue-1"
