@@ -1,7 +1,7 @@
 
 [site]
-url = "http://localhost"
-name = "blog"
+url = "https://shwin0901.github.io/blog/"
+name = "my blog"
 description = ""
 
 [authors]
