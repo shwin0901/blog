@@ -1,14 +1,14 @@
 
 [site]
-url = "https://shwin0901.github.io/blog/"
-name = "my blog"
+url = "https://shwin0901.github.io/blog"
+name = "My blog"
 description = ""
 
 [authors]
-xx = {}
+zxg = {  }
 
 [[issue]]
 slug = "s1"
 number = 1
-title = "Issue 1"
+title = "HTML Note"
 path = "content/issue-1"

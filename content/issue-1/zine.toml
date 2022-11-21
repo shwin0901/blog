@@ -2,8 +2,8 @@
 [[article]]
 slug = "1"
 file = "1-first.md"
-title = "First article"
-author = "xx"
+title = "关于HTML5 Draggable"
+author = "zxg"
 cover = ""
 pub_date = "2022-11-17"
 publish = true
