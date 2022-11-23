@@ -8,3 +8,13 @@ cover = ""
 pub_date = "2022-11-17"
 publish = true
 featured = true
+
+[[article]]
+slug = "2"
+file = "element.md"
+title = "Element 属性"
+author = "zxg"
+cover = ""
+pub_date = "2022-11-22"
+publish = true
+featured = true
